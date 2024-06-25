@@ -39,3 +39,10 @@ Sample Output
 Explanation
 Here, "aba" occurs twice, in the first and third string. The string "xzxb" occurs once in the fourth string,
 and "ab" does not occur at all.
+
+
+Note: Check Only Implemented Functions:  
+        1. bStringCmp() , 
+        2. u8StringLen() and
+        3. matchingStrings()
+
